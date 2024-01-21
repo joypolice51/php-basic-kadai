@@ -12,6 +12,8 @@ $score_10 = 60;
 
 $score_sum = $score_1 + $score_2 + $score_3 + $score_4 + $score_5 + $score_6 + $score_7 + $score_8 + $score_9 + $score_10;
 $score_average = $score_sum / 10;
+
 echo $score_sum;
+echo '<br>';
 echo $score_average
 ?>
